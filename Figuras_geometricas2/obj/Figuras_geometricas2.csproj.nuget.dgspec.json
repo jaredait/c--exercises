@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\C# exercises\\Figuras_geometricas2\\Figuras_geometricas2.csproj": {}
+    "C:\\Users\\ASUS\\source\\repos\\cs-exercises\\Figuras_geometricas2\\Figuras_geometricas2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\C# exercises\\Figuras_geometricas2\\Figuras_geometricas2.csproj": {
+    "C:\\Users\\ASUS\\source\\repos\\cs-exercises\\Figuras_geometricas2\\Figuras_geometricas2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\C# exercises\\Figuras_geometricas2\\Figuras_geometricas2.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\cs-exercises\\Figuras_geometricas2\\Figuras_geometricas2.csproj",
         "projectName": "Figuras_geometricas2",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\C# exercises\\Figuras_geometricas2\\Figuras_geometricas2.csproj",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\cs-exercises\\Figuras_geometricas2\\Figuras_geometricas2.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\C# exercises\\Figuras_geometricas2\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\repos\\cs-exercises\\Figuras_geometricas2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
