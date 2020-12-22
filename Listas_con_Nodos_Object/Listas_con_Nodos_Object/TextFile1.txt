@@ -1,0 +1,27 @@
+﻿Segundo Examen de Estructura de Datos
+ 
+En clase se programó una cola dinámica de enteros, su trabajo es programar una pila dinámica de chars que tenga las siguientes condiciones:
+• Todos los nodos son utilizables, es decir no se hará un nodo especial “RAIZ” que permita simplificar el trabajo con el apuntador a this.
+• La pila sigue el sistema FIFO como cualquier pila, los nuevos elementos se apilan al final de la pila y salen de allí mismo.
+• Se la considerará vacía cuando exista un único nodo cuyo contenido sea el carácter nulo ‘\0’
+Programe las siguientes operaciones:
+[]	void Push (char dato) //Inserta un nuevo nodo cuyo elemento será dato.
+[]  char Pop () //Elimina el nodo que corresponde de la pila y retorna su contenido.
+[]	void Ver() //Presenta por consola cada uno de los elementos de la pila en sistema FIFO o indica si está vacía.
+[]	Contar //Este es un descriptor solo de lectura (como se aprendió en el capítulo de POO) y devuelve el número de elementos de la pila.
+[]	Vacia //A diferencia del método vacía que se ha hecho en otros ejemplos, este también será un descriptor de lectura como el del caso anterior, pero hará lo mismo que el método que se ha programado varias veces, es decir devolverá verdadero o falso según corresponda.
+[]	char[] Eliminar() //Deja la pila vacía y retorna los datos eliminados mediante pops en un arreglo. El arreglo debe tener el mismo tamaño que los datos que quedaban en la pila antes de la llamada al método.
+bool Comparar(pila b) //Compara la pila implícita con la pila b y retorna true si son iguales, false en caso contrario.
+ 
+Programe su clase pila, y pruebe que los diferentes métodos funcionen en el Main(). Preste atención al puntaje de cada operación para que pueda maximizar su nota. No haga cosas que no se solicitan porque no tendrán nota.
+ 
+Rúbrica de Calificación (10 puntos)
+ 
+Push: 1 punto
+Pop: 1 punto
+Ver: 1 punto
+Contar: 1 punto (0.5 si no es descriptor)
+Vacia: 1 punto (0 si no es descriptor)
+Eliminar: 2 puntos
+Comparar: 2 puntos
+Correcta programación de la clase pila y probar las operaciones en el Main: 1 punto

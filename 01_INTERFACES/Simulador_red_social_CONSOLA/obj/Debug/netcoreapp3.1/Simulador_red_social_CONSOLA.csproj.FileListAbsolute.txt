@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Simulador_red_social_CONSOLA\bin\Debug\netcoreapp3.1\Simulador_red_social_CONSOLA.exe
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Simulador_red_social_CONSOLA\bin\Debug\netcoreapp3.1\Simulador_red_social_CONSOLA.deps.json
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Simulador_red_social_CONSOLA\bin\Debug\netcoreapp3.1\Simulador_red_social_CONSOLA.runtimeconfig.json
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Simulador_red_social_CONSOLA\bin\Debug\netcoreapp3.1\Simulador_red_social_CONSOLA.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Simulador_red_social_CONSOLA\bin\Debug\netcoreapp3.1\Simulador_red_social_CONSOLA.dll
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Simulador_red_social_CONSOLA\bin\Debug\netcoreapp3.1\Simulador_red_social_CONSOLA.pdb
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Simulador_red_social_CONSOLA\obj\Debug\netcoreapp3.1\Simulador_red_social_CONSOLA.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Simulador_red_social_CONSOLA\obj\Debug\netcoreapp3.1\Simulador_red_social_CONSOLA.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Simulador_red_social_CONSOLA\obj\Debug\netcoreapp3.1\Simulador_red_social_CONSOLA.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Simulador_red_social_CONSOLA\obj\Debug\netcoreapp3.1\Simulador_red_social_CONSOLA.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Simulador_red_social_CONSOLA\obj\Debug\netcoreapp3.1\Simulador_red_social_CONSOLA.dll
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Simulador_red_social_CONSOLA\obj\Debug\netcoreapp3.1\Simulador_red_social_CONSOLA.pdb
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Simulador_red_social_CONSOLA\obj\Debug\netcoreapp3.1\Simulador_red_social_CONSOLA.genruntimeconfig.cache

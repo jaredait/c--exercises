@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\C# exercises\Cola_Test00\Cola_Test00\bin\Debug\netcoreapp3.1\Cola_Test00.exe
+C:\Users\jared\source\repos\C# exercises\Cola_Test00\Cola_Test00\bin\Debug\netcoreapp3.1\Cola_Test00.deps.json
+C:\Users\jared\source\repos\C# exercises\Cola_Test00\Cola_Test00\bin\Debug\netcoreapp3.1\Cola_Test00.runtimeconfig.json
+C:\Users\jared\source\repos\C# exercises\Cola_Test00\Cola_Test00\bin\Debug\netcoreapp3.1\Cola_Test00.runtimeconfig.dev.json
+C:\Users\jared\source\repos\C# exercises\Cola_Test00\Cola_Test00\bin\Debug\netcoreapp3.1\Cola_Test00.dll
+C:\Users\jared\source\repos\C# exercises\Cola_Test00\Cola_Test00\bin\Debug\netcoreapp3.1\Cola_Test00.pdb
+C:\Users\jared\source\repos\C# exercises\Cola_Test00\Cola_Test00\obj\Debug\netcoreapp3.1\Cola_Test00.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\C# exercises\Cola_Test00\Cola_Test00\obj\Debug\netcoreapp3.1\Cola_Test00.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\C# exercises\Cola_Test00\Cola_Test00\obj\Debug\netcoreapp3.1\Cola_Test00.AssemblyInfo.cs
+C:\Users\jared\source\repos\C# exercises\Cola_Test00\Cola_Test00\obj\Debug\netcoreapp3.1\Cola_Test00.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\C# exercises\Cola_Test00\Cola_Test00\obj\Debug\netcoreapp3.1\Cola_Test00.dll
+C:\Users\jared\source\repos\C# exercises\Cola_Test00\Cola_Test00\obj\Debug\netcoreapp3.1\Cola_Test00.pdb
+C:\Users\jared\source\repos\C# exercises\Cola_Test00\Cola_Test00\obj\Debug\netcoreapp3.1\Cola_Test00.genruntimeconfig.cache

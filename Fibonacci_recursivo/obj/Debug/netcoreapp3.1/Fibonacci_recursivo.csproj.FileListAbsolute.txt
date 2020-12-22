@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\C# exercises\Fibonacci_recursivo\bin\Debug\netcoreapp3.1\Fibonacci_recursivo.exe
+C:\Users\jared\source\repos\C# exercises\Fibonacci_recursivo\bin\Debug\netcoreapp3.1\Fibonacci_recursivo.deps.json
+C:\Users\jared\source\repos\C# exercises\Fibonacci_recursivo\bin\Debug\netcoreapp3.1\Fibonacci_recursivo.runtimeconfig.json
+C:\Users\jared\source\repos\C# exercises\Fibonacci_recursivo\bin\Debug\netcoreapp3.1\Fibonacci_recursivo.runtimeconfig.dev.json
+C:\Users\jared\source\repos\C# exercises\Fibonacci_recursivo\bin\Debug\netcoreapp3.1\Fibonacci_recursivo.dll
+C:\Users\jared\source\repos\C# exercises\Fibonacci_recursivo\bin\Debug\netcoreapp3.1\Fibonacci_recursivo.pdb
+C:\Users\jared\source\repos\C# exercises\Fibonacci_recursivo\obj\Debug\netcoreapp3.1\Fibonacci_recursivo.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\C# exercises\Fibonacci_recursivo\obj\Debug\netcoreapp3.1\Fibonacci_recursivo.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\C# exercises\Fibonacci_recursivo\obj\Debug\netcoreapp3.1\Fibonacci_recursivo.AssemblyInfo.cs
+C:\Users\jared\source\repos\C# exercises\Fibonacci_recursivo\obj\Debug\netcoreapp3.1\Fibonacci_recursivo.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\C# exercises\Fibonacci_recursivo\obj\Debug\netcoreapp3.1\Fibonacci_recursivo.dll
+C:\Users\jared\source\repos\C# exercises\Fibonacci_recursivo\obj\Debug\netcoreapp3.1\Fibonacci_recursivo.pdb
+C:\Users\jared\source\repos\C# exercises\Fibonacci_recursivo\obj\Debug\netcoreapp3.1\Fibonacci_recursivo.genruntimeconfig.cache

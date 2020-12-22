@@ -1,0 +1,22 @@
+﻿        public Object Pop()
+        {
+            if(IsEmpty)
+            {
+                Console.WriteLine("Empty stack. (Pop)");
+                return null;
+            }
+            else
+            {
+                Node lastNode = GetLastNode();
+                Node secondToLastNode = GetSecondToLastNode();
+                Object myData = lastNode.Data;
+
+                if (secondToLastNode == lastNode)
+                    head = null;
+                else
+                    secondToLastNode.Next = null;
+                
+                Count--;
+                return myData;
+            }
+        }

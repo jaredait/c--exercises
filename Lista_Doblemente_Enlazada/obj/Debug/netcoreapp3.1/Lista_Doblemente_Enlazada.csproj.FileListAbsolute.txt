@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\C# exercises\Lista_Doblemente_Enlazada\bin\Debug\netcoreapp3.1\Lista_Doblemente_Enlazada.exe
+C:\Users\jared\source\repos\C# exercises\Lista_Doblemente_Enlazada\bin\Debug\netcoreapp3.1\Lista_Doblemente_Enlazada.deps.json
+C:\Users\jared\source\repos\C# exercises\Lista_Doblemente_Enlazada\bin\Debug\netcoreapp3.1\Lista_Doblemente_Enlazada.runtimeconfig.json
+C:\Users\jared\source\repos\C# exercises\Lista_Doblemente_Enlazada\bin\Debug\netcoreapp3.1\Lista_Doblemente_Enlazada.runtimeconfig.dev.json
+C:\Users\jared\source\repos\C# exercises\Lista_Doblemente_Enlazada\bin\Debug\netcoreapp3.1\Lista_Doblemente_Enlazada.dll
+C:\Users\jared\source\repos\C# exercises\Lista_Doblemente_Enlazada\bin\Debug\netcoreapp3.1\Lista_Doblemente_Enlazada.pdb
+C:\Users\jared\source\repos\C# exercises\Lista_Doblemente_Enlazada\obj\Debug\netcoreapp3.1\Lista_Doblemente_Enlazada.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\C# exercises\Lista_Doblemente_Enlazada\obj\Debug\netcoreapp3.1\Lista_Doblemente_Enlazada.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\C# exercises\Lista_Doblemente_Enlazada\obj\Debug\netcoreapp3.1\Lista_Doblemente_Enlazada.AssemblyInfo.cs
+C:\Users\jared\source\repos\C# exercises\Lista_Doblemente_Enlazada\obj\Debug\netcoreapp3.1\Lista_Doblemente_Enlazada.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\C# exercises\Lista_Doblemente_Enlazada\obj\Debug\netcoreapp3.1\Lista_Doblemente_Enlazada.dll
+C:\Users\jared\source\repos\C# exercises\Lista_Doblemente_Enlazada\obj\Debug\netcoreapp3.1\Lista_Doblemente_Enlazada.pdb
+C:\Users\jared\source\repos\C# exercises\Lista_Doblemente_Enlazada\obj\Debug\netcoreapp3.1\Lista_Doblemente_Enlazada.genruntimeconfig.cache

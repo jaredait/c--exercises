@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\C# exercises\Cambio_de_base_recursivo\bin\Debug\netcoreapp3.1\Cambio_de_base_recursivo.exe
+C:\Users\jared\source\repos\C# exercises\Cambio_de_base_recursivo\bin\Debug\netcoreapp3.1\Cambio_de_base_recursivo.deps.json
+C:\Users\jared\source\repos\C# exercises\Cambio_de_base_recursivo\bin\Debug\netcoreapp3.1\Cambio_de_base_recursivo.runtimeconfig.json
+C:\Users\jared\source\repos\C# exercises\Cambio_de_base_recursivo\bin\Debug\netcoreapp3.1\Cambio_de_base_recursivo.runtimeconfig.dev.json
+C:\Users\jared\source\repos\C# exercises\Cambio_de_base_recursivo\bin\Debug\netcoreapp3.1\Cambio_de_base_recursivo.dll
+C:\Users\jared\source\repos\C# exercises\Cambio_de_base_recursivo\bin\Debug\netcoreapp3.1\Cambio_de_base_recursivo.pdb
+C:\Users\jared\source\repos\C# exercises\Cambio_de_base_recursivo\obj\Debug\netcoreapp3.1\Cambio_de_base_recursivo.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\C# exercises\Cambio_de_base_recursivo\obj\Debug\netcoreapp3.1\Cambio_de_base_recursivo.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\C# exercises\Cambio_de_base_recursivo\obj\Debug\netcoreapp3.1\Cambio_de_base_recursivo.AssemblyInfo.cs
+C:\Users\jared\source\repos\C# exercises\Cambio_de_base_recursivo\obj\Debug\netcoreapp3.1\Cambio_de_base_recursivo.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\C# exercises\Cambio_de_base_recursivo\obj\Debug\netcoreapp3.1\Cambio_de_base_recursivo.dll
+C:\Users\jared\source\repos\C# exercises\Cambio_de_base_recursivo\obj\Debug\netcoreapp3.1\Cambio_de_base_recursivo.pdb
+C:\Users\jared\source\repos\C# exercises\Cambio_de_base_recursivo\obj\Debug\netcoreapp3.1\Cambio_de_base_recursivo.genruntimeconfig.cache

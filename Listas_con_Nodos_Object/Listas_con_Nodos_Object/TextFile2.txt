@@ -1,0 +1,39 @@
+﻿Segundo Examen de Estructura de Datos
+
+Considerando los conceptos base impartidos en clase, generar un aplicativo que demuestre el funcionamiento de una cola aprovechando la asignación dinámica de memoria.
+La cola a implementar semejará la problemática existente en un Banco, donde cada elemento de la cola representa a un cliente con información correspondiente al
+tipo de transacción a ejecutar, siedo estas Depósito representado por "D" y Retiro por "R".
+
+El desarrollo se guía por las siguientes condiciones:
+a) es necesario respetar el esquema FIFO al que responde una cola,
+b) al ingreso a la cola el cliente lo hace de manera secuencial, esto es uno a uno
+c) a la salida de la cola se la maneja también secuencialmente, tomará la primera disponible en cola
+d) Se la considerará vacía cuando exista un único nodo cuyo contenido sea el carácter nulo ‘\0’
+
+Programe las siguientes operaciones:
+[]		void PushCola (char dato) //Inserta un nuevo nodo cuyo elemento será dato bajo los indicado en  la condición "b".
+[]		char PopCola () //Elimina el nodo que corresponde de la cola y retorna su contenido bajo las condiciones "a" y "c".
+void VerCola() //Presenta por consola cada uno de los elementos de la pila en sistema FIFO o indica si está vacía.
+[]		int ContarCola() //Este devuelve el número de elementos de la pila.
+bool ColaVacia() //Devolverá verdadero o falso según corresponda.
+char[] EliminarCola() //Deja la pila vacía y retorna los datos eliminados mediante PopColas en un arreglo. El arreglo debe tener el mismo tamaño que los datos que quedaban en la pila antes de la llamada al método.
+
+Programe su clase pila, y pruebe que los diferentes métodos funcionen en el Main(). Preste atención al puntaje de cada operación para que pueda maximizar su nota. No haga cosas que no se solicitan porque no tendrán nota.
+
+Rúbrica de Calificación (10 puntos)
+Creación del tipo/clase Cliente: 1 punto
+PushCola: 1 punto
+PopCola: 1 puntos
+VerCola: 1 punto
+ContarCola: 1 punto
+ColaVacia: 1 punto
+EliminarCola: 2 puntos
+Documentación del código según estándar manejado en clase: 1 punto
+Correcta programación de la clase Cola y probar las operaciones en el Main: 1 punto
+
+Para entrega de este programa cargar un archivo llamado
+
+Apellido_Nombre_P2ED.cs 
+
+Cumplir con instrucciones de carga tendrá un peso adicional de 0.5 puntos.
+

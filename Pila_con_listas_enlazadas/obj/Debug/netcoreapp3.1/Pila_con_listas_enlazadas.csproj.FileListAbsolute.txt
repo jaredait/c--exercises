@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\C# exercises\Pila_con_listas_enlazadas\bin\Debug\netcoreapp3.1\Pila_con_listas_enlazadas.exe
+C:\Users\jared\source\repos\C# exercises\Pila_con_listas_enlazadas\bin\Debug\netcoreapp3.1\Pila_con_listas_enlazadas.deps.json
+C:\Users\jared\source\repos\C# exercises\Pila_con_listas_enlazadas\bin\Debug\netcoreapp3.1\Pila_con_listas_enlazadas.runtimeconfig.json
+C:\Users\jared\source\repos\C# exercises\Pila_con_listas_enlazadas\bin\Debug\netcoreapp3.1\Pila_con_listas_enlazadas.runtimeconfig.dev.json
+C:\Users\jared\source\repos\C# exercises\Pila_con_listas_enlazadas\bin\Debug\netcoreapp3.1\Pila_con_listas_enlazadas.dll
+C:\Users\jared\source\repos\C# exercises\Pila_con_listas_enlazadas\bin\Debug\netcoreapp3.1\Pila_con_listas_enlazadas.pdb
+C:\Users\jared\source\repos\C# exercises\Pila_con_listas_enlazadas\obj\Debug\netcoreapp3.1\Pila_con_listas_enlazadas.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\C# exercises\Pila_con_listas_enlazadas\obj\Debug\netcoreapp3.1\Pila_con_listas_enlazadas.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\C# exercises\Pila_con_listas_enlazadas\obj\Debug\netcoreapp3.1\Pila_con_listas_enlazadas.AssemblyInfo.cs
+C:\Users\jared\source\repos\C# exercises\Pila_con_listas_enlazadas\obj\Debug\netcoreapp3.1\Pila_con_listas_enlazadas.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\C# exercises\Pila_con_listas_enlazadas\obj\Debug\netcoreapp3.1\Pila_con_listas_enlazadas.dll
+C:\Users\jared\source\repos\C# exercises\Pila_con_listas_enlazadas\obj\Debug\netcoreapp3.1\Pila_con_listas_enlazadas.pdb
+C:\Users\jared\source\repos\C# exercises\Pila_con_listas_enlazadas\obj\Debug\netcoreapp3.1\Pila_con_listas_enlazadas.genruntimeconfig.cache

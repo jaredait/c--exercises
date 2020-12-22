@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\C# exercises\Ejercicio_Otro_Paralelo\Ejercicio_Otro_Paralelo\bin\Debug\netcoreapp3.1\Ejercicio_Otro_Paralelo.exe
+C:\Users\jared\source\repos\C# exercises\Ejercicio_Otro_Paralelo\Ejercicio_Otro_Paralelo\bin\Debug\netcoreapp3.1\Ejercicio_Otro_Paralelo.deps.json
+C:\Users\jared\source\repos\C# exercises\Ejercicio_Otro_Paralelo\Ejercicio_Otro_Paralelo\bin\Debug\netcoreapp3.1\Ejercicio_Otro_Paralelo.runtimeconfig.json
+C:\Users\jared\source\repos\C# exercises\Ejercicio_Otro_Paralelo\Ejercicio_Otro_Paralelo\bin\Debug\netcoreapp3.1\Ejercicio_Otro_Paralelo.runtimeconfig.dev.json
+C:\Users\jared\source\repos\C# exercises\Ejercicio_Otro_Paralelo\Ejercicio_Otro_Paralelo\bin\Debug\netcoreapp3.1\Ejercicio_Otro_Paralelo.dll
+C:\Users\jared\source\repos\C# exercises\Ejercicio_Otro_Paralelo\Ejercicio_Otro_Paralelo\bin\Debug\netcoreapp3.1\Ejercicio_Otro_Paralelo.pdb
+C:\Users\jared\source\repos\C# exercises\Ejercicio_Otro_Paralelo\Ejercicio_Otro_Paralelo\obj\Debug\netcoreapp3.1\Ejercicio_Otro_Paralelo.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\C# exercises\Ejercicio_Otro_Paralelo\Ejercicio_Otro_Paralelo\obj\Debug\netcoreapp3.1\Ejercicio_Otro_Paralelo.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\C# exercises\Ejercicio_Otro_Paralelo\Ejercicio_Otro_Paralelo\obj\Debug\netcoreapp3.1\Ejercicio_Otro_Paralelo.AssemblyInfo.cs
+C:\Users\jared\source\repos\C# exercises\Ejercicio_Otro_Paralelo\Ejercicio_Otro_Paralelo\obj\Debug\netcoreapp3.1\Ejercicio_Otro_Paralelo.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\C# exercises\Ejercicio_Otro_Paralelo\Ejercicio_Otro_Paralelo\obj\Debug\netcoreapp3.1\Ejercicio_Otro_Paralelo.dll
+C:\Users\jared\source\repos\C# exercises\Ejercicio_Otro_Paralelo\Ejercicio_Otro_Paralelo\obj\Debug\netcoreapp3.1\Ejercicio_Otro_Paralelo.pdb
+C:\Users\jared\source\repos\C# exercises\Ejercicio_Otro_Paralelo\Ejercicio_Otro_Paralelo\obj\Debug\netcoreapp3.1\Ejercicio_Otro_Paralelo.genruntimeconfig.cache

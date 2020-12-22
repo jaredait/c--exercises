@@ -1,0 +1,11 @@
+C:\Users\jared\source\repos\C# exercises\Figuras_Geometricas\Figuras_Geometricas\bin\Debug\netcoreapp3.1\Figuras_Geometricas.exe
+C:\Users\jared\source\repos\C# exercises\Figuras_Geometricas\Figuras_Geometricas\bin\Debug\netcoreapp3.1\Figuras_Geometricas.deps.json
+C:\Users\jared\source\repos\C# exercises\Figuras_Geometricas\Figuras_Geometricas\bin\Debug\netcoreapp3.1\Figuras_Geometricas.runtimeconfig.json
+C:\Users\jared\source\repos\C# exercises\Figuras_Geometricas\Figuras_Geometricas\bin\Debug\netcoreapp3.1\Figuras_Geometricas.runtimeconfig.dev.json
+C:\Users\jared\source\repos\C# exercises\Figuras_Geometricas\Figuras_Geometricas\bin\Debug\netcoreapp3.1\Figuras_Geometricas.dll
+C:\Users\jared\source\repos\C# exercises\Figuras_Geometricas\Figuras_Geometricas\bin\Debug\netcoreapp3.1\Figuras_Geometricas.pdb
+C:\Users\jared\source\repos\C# exercises\Figuras_Geometricas\Figuras_Geometricas\obj\Debug\netcoreapp3.1\Figuras_Geometricas.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\C# exercises\Figuras_Geometricas\Figuras_Geometricas\obj\Debug\netcoreapp3.1\Figuras_Geometricas.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\C# exercises\Figuras_Geometricas\Figuras_Geometricas\obj\Debug\netcoreapp3.1\Figuras_Geometricas.AssemblyInfo.cs
+C:\Users\jared\source\repos\C# exercises\Figuras_Geometricas\Figuras_Geometricas\obj\Debug\netcoreapp3.1\Figuras_Geometricas.dll
+C:\Users\jared\source\repos\C# exercises\Figuras_Geometricas\Figuras_Geometricas\obj\Debug\netcoreapp3.1\Figuras_Geometricas.pdb

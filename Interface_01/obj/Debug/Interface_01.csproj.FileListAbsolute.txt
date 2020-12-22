@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\C# exercises\Interface_01\bin\Debug\Interface_01.exe.config
+C:\Users\jared\source\repos\C# exercises\Interface_01\bin\Debug\Interface_01.exe
+C:\Users\jared\source\repos\C# exercises\Interface_01\bin\Debug\Interface_01.pdb
+C:\Users\jared\source\repos\C# exercises\Interface_01\obj\Debug\Interface_01.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\C# exercises\Interface_01\obj\Debug\Interface_01.Form1.resources
+C:\Users\jared\source\repos\C# exercises\Interface_01\obj\Debug\Interface_01.Properties.Resources.resources
+C:\Users\jared\source\repos\C# exercises\Interface_01\obj\Debug\Interface_01.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\C# exercises\Interface_01\obj\Debug\Interface_01.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\C# exercises\Interface_01\obj\Debug\Interface_01.exe
+C:\Users\jared\source\repos\C# exercises\Interface_01\obj\Debug\Interface_01.pdb

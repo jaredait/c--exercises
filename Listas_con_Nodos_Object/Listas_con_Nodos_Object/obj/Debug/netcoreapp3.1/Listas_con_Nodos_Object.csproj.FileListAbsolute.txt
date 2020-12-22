@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\C# exercises\Listas_con_Nodos_Object\Listas_con_Nodos_Object\obj\Debug\netcoreapp3.1\Listas_con_Nodos_Object.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\C# exercises\Listas_con_Nodos_Object\Listas_con_Nodos_Object\obj\Debug\netcoreapp3.1\Listas_con_Nodos_Object.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\C# exercises\Listas_con_Nodos_Object\Listas_con_Nodos_Object\obj\Debug\netcoreapp3.1\Listas_con_Nodos_Object.AssemblyInfo.cs
+C:\Users\jared\source\repos\C# exercises\Listas_con_Nodos_Object\Listas_con_Nodos_Object\obj\Debug\netcoreapp3.1\Listas_con_Nodos_Object.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\C# exercises\Listas_con_Nodos_Object\Listas_con_Nodos_Object\bin\Debug\netcoreapp3.1\Listas_con_Nodos_Object.exe
+C:\Users\jared\source\repos\C# exercises\Listas_con_Nodos_Object\Listas_con_Nodos_Object\bin\Debug\netcoreapp3.1\Listas_con_Nodos_Object.deps.json
+C:\Users\jared\source\repos\C# exercises\Listas_con_Nodos_Object\Listas_con_Nodos_Object\bin\Debug\netcoreapp3.1\Listas_con_Nodos_Object.runtimeconfig.json
+C:\Users\jared\source\repos\C# exercises\Listas_con_Nodos_Object\Listas_con_Nodos_Object\bin\Debug\netcoreapp3.1\Listas_con_Nodos_Object.runtimeconfig.dev.json
+C:\Users\jared\source\repos\C# exercises\Listas_con_Nodos_Object\Listas_con_Nodos_Object\bin\Debug\netcoreapp3.1\Listas_con_Nodos_Object.dll
+C:\Users\jared\source\repos\C# exercises\Listas_con_Nodos_Object\Listas_con_Nodos_Object\bin\Debug\netcoreapp3.1\Listas_con_Nodos_Object.pdb
+C:\Users\jared\source\repos\C# exercises\Listas_con_Nodos_Object\Listas_con_Nodos_Object\obj\Debug\netcoreapp3.1\Listas_con_Nodos_Object.dll
+C:\Users\jared\source\repos\C# exercises\Listas_con_Nodos_Object\Listas_con_Nodos_Object\obj\Debug\netcoreapp3.1\Listas_con_Nodos_Object.pdb
+C:\Users\jared\source\repos\C# exercises\Listas_con_Nodos_Object\Listas_con_Nodos_Object\obj\Debug\netcoreapp3.1\Listas_con_Nodos_Object.genruntimeconfig.cache

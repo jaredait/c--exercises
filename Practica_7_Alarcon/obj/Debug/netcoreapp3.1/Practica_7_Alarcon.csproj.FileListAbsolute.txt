@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\C# exercises\Practica_7_Alarcon\bin\Debug\netcoreapp3.1\Practica_7_Alarcon.exe
+C:\Users\jared\source\repos\C# exercises\Practica_7_Alarcon\bin\Debug\netcoreapp3.1\Practica_7_Alarcon.deps.json
+C:\Users\jared\source\repos\C# exercises\Practica_7_Alarcon\bin\Debug\netcoreapp3.1\Practica_7_Alarcon.runtimeconfig.json
+C:\Users\jared\source\repos\C# exercises\Practica_7_Alarcon\bin\Debug\netcoreapp3.1\Practica_7_Alarcon.runtimeconfig.dev.json
+C:\Users\jared\source\repos\C# exercises\Practica_7_Alarcon\bin\Debug\netcoreapp3.1\Practica_7_Alarcon.dll
+C:\Users\jared\source\repos\C# exercises\Practica_7_Alarcon\bin\Debug\netcoreapp3.1\Practica_7_Alarcon.pdb
+C:\Users\jared\source\repos\C# exercises\Practica_7_Alarcon\obj\Debug\netcoreapp3.1\Practica_7_Alarcon.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\C# exercises\Practica_7_Alarcon\obj\Debug\netcoreapp3.1\Practica_7_Alarcon.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\C# exercises\Practica_7_Alarcon\obj\Debug\netcoreapp3.1\Practica_7_Alarcon.AssemblyInfo.cs
+C:\Users\jared\source\repos\C# exercises\Practica_7_Alarcon\obj\Debug\netcoreapp3.1\Practica_7_Alarcon.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\C# exercises\Practica_7_Alarcon\obj\Debug\netcoreapp3.1\Practica_7_Alarcon.dll
+C:\Users\jared\source\repos\C# exercises\Practica_7_Alarcon\obj\Debug\netcoreapp3.1\Practica_7_Alarcon.pdb
+C:\Users\jared\source\repos\C# exercises\Practica_7_Alarcon\obj\Debug\netcoreapp3.1\Practica_7_Alarcon.genruntimeconfig.cache

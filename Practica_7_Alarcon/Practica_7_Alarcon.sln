@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica_7_Alarcon", "Practica_7_Alarcon.csproj", "{71637AE0-26DF-4AD2-BB7A-BFC0BA619ABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71637AE0-26DF-4AD2-BB7A-BFC0BA619ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71637AE0-26DF-4AD2-BB7A-BFC0BA619ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71637AE0-26DF-4AD2-BB7A-BFC0BA619ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71637AE0-26DF-4AD2-BB7A-BFC0BA619ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDF936DA-CC85-4527-860D-BEFF20EFAA38}
+	EndGlobalSection
+EndGlobal

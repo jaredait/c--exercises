@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\C# exercises\Prueba_Forms_1\bin\Debug\Prueba_Forms_1.exe.config
+C:\Users\jared\source\repos\C# exercises\Prueba_Forms_1\bin\Debug\Prueba_Forms_1.exe
+C:\Users\jared\source\repos\C# exercises\Prueba_Forms_1\bin\Debug\Prueba_Forms_1.pdb
+C:\Users\jared\source\repos\C# exercises\Prueba_Forms_1\obj\Debug\Prueba_Forms_1.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\C# exercises\Prueba_Forms_1\obj\Debug\Prueba_Forms_1.Properties.Resources.resources
+C:\Users\jared\source\repos\C# exercises\Prueba_Forms_1\obj\Debug\Prueba_Forms_1.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\C# exercises\Prueba_Forms_1\obj\Debug\Prueba_Forms_1.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\C# exercises\Prueba_Forms_1\obj\Debug\Prueba_Forms_1.exe
+C:\Users\jared\source\repos\C# exercises\Prueba_Forms_1\obj\Debug\Prueba_Forms_1.pdb
+C:\Users\jared\source\repos\C# exercises\Prueba_Forms_1\obj\Debug\Prueba_Forms_1.Form1.resources

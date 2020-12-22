@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Sala_espera\bin\Debug\Sala_espera.exe.config
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Sala_espera\bin\Debug\Sala_espera.exe
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Sala_espera\bin\Debug\Sala_espera.pdb
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Sala_espera\obj\Debug\Sala_espera.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Sala_espera\obj\Debug\Sala_espera.Form1.resources
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Sala_espera\obj\Debug\Sala_espera.Properties.Resources.resources
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Sala_espera\obj\Debug\Sala_espera.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Sala_espera\obj\Debug\Sala_espera.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Sala_espera\obj\Debug\Sala_espera.exe
+C:\Users\ASUS\source\repos\C# exercises\01_INTERFACES\Sala_espera\obj\Debug\Sala_espera.pdb

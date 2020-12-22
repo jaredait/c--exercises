@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cambio_de_base_recursivo/1.0.0": {
+        "runtime": {
+          "Cambio_de_base_recursivo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cambio_de_base_recursivo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

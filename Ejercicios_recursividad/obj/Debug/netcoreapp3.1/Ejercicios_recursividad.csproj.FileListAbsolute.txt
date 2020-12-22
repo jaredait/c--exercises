@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\C# exercises\Ejercicios_recursividad\bin\Debug\netcoreapp3.1\Ejercicios_recursividad.exe
+C:\Users\jared\source\repos\C# exercises\Ejercicios_recursividad\bin\Debug\netcoreapp3.1\Ejercicios_recursividad.deps.json
+C:\Users\jared\source\repos\C# exercises\Ejercicios_recursividad\bin\Debug\netcoreapp3.1\Ejercicios_recursividad.runtimeconfig.json
+C:\Users\jared\source\repos\C# exercises\Ejercicios_recursividad\bin\Debug\netcoreapp3.1\Ejercicios_recursividad.runtimeconfig.dev.json
+C:\Users\jared\source\repos\C# exercises\Ejercicios_recursividad\bin\Debug\netcoreapp3.1\Ejercicios_recursividad.dll
+C:\Users\jared\source\repos\C# exercises\Ejercicios_recursividad\bin\Debug\netcoreapp3.1\Ejercicios_recursividad.pdb
+C:\Users\jared\source\repos\C# exercises\Ejercicios_recursividad\obj\Debug\netcoreapp3.1\Ejercicios_recursividad.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\C# exercises\Ejercicios_recursividad\obj\Debug\netcoreapp3.1\Ejercicios_recursividad.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\C# exercises\Ejercicios_recursividad\obj\Debug\netcoreapp3.1\Ejercicios_recursividad.AssemblyInfo.cs
+C:\Users\jared\source\repos\C# exercises\Ejercicios_recursividad\obj\Debug\netcoreapp3.1\Ejercicios_recursividad.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\C# exercises\Ejercicios_recursividad\obj\Debug\netcoreapp3.1\Ejercicios_recursividad.dll
+C:\Users\jared\source\repos\C# exercises\Ejercicios_recursividad\obj\Debug\netcoreapp3.1\Ejercicios_recursividad.pdb
+C:\Users\jared\source\repos\C# exercises\Ejercicios_recursividad\obj\Debug\netcoreapp3.1\Ejercicios_recursividad.genruntimeconfig.cache

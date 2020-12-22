@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\C# exercises\Struct_Test1\Struct_Test1\obj\Debug\netcoreapp3.1\Struct_Test1.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\C# exercises\Struct_Test1\Struct_Test1\obj\Debug\netcoreapp3.1\Struct_Test1.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\C# exercises\Struct_Test1\Struct_Test1\obj\Debug\netcoreapp3.1\Struct_Test1.AssemblyInfo.cs
+C:\Users\jared\source\repos\C# exercises\Struct_Test1\Struct_Test1\obj\Debug\netcoreapp3.1\Struct_Test1.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\C# exercises\Struct_Test1\Struct_Test1\bin\Debug\netcoreapp3.1\Struct_Test1.exe
+C:\Users\jared\source\repos\C# exercises\Struct_Test1\Struct_Test1\bin\Debug\netcoreapp3.1\Struct_Test1.deps.json
+C:\Users\jared\source\repos\C# exercises\Struct_Test1\Struct_Test1\bin\Debug\netcoreapp3.1\Struct_Test1.runtimeconfig.json
+C:\Users\jared\source\repos\C# exercises\Struct_Test1\Struct_Test1\bin\Debug\netcoreapp3.1\Struct_Test1.runtimeconfig.dev.json
+C:\Users\jared\source\repos\C# exercises\Struct_Test1\Struct_Test1\bin\Debug\netcoreapp3.1\Struct_Test1.dll
+C:\Users\jared\source\repos\C# exercises\Struct_Test1\Struct_Test1\bin\Debug\netcoreapp3.1\Struct_Test1.pdb
+C:\Users\jared\source\repos\C# exercises\Struct_Test1\Struct_Test1\obj\Debug\netcoreapp3.1\Struct_Test1.dll
+C:\Users\jared\source\repos\C# exercises\Struct_Test1\Struct_Test1\obj\Debug\netcoreapp3.1\Struct_Test1.pdb
+C:\Users\jared\source\repos\C# exercises\Struct_Test1\Struct_Test1\obj\Debug\netcoreapp3.1\Struct_Test1.genruntimeconfig.cache

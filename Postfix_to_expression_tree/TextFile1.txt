@@ -1,0 +1,38 @@
+﻿if (char.IsSymbol(expression[0]))
+            {
+                temp = new Node(Convert.ToString(expression[0]));
+                object auxLeft = stack.Peek();
+                
+                Node left = new Node(stack.Pop());
+
+                Node Right = new Node(stack.Pop());
+                temp.LeftChild = left;
+                temp.RightChild = Right;
+                stack.Push(temp);
+                SetNode(expression.Substring(1, expression.Length - 1), temp, stack);
+            }
+
+
+
+
+
+
+
+
+
+
+
+            /*
+                temp = new Node(Convert.ToString(expression[0]));
+                Node right = null;
+                Node left = null;
+                if (stackNodes.Count > 0)
+                    left = stackNodes.Pop();
+                else
+                    left = new Node((string)stackLetters.Pop());
+
+                if (stackLetters.Count > 0)
+                    right = new Node((string)stackLetters.Pop());
+
+                temp.LeftChild = left;
+                temp.RightChild = right;*/

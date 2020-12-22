@@ -1,0 +1,33 @@
+﻿1.	Escriba un programa que permita ingresar dentro de un arreglo de enteros de n posiciones los valores 
+correspondientes y mediante nodos genere una cola que permita visualizar todos los números impares en el lado 
+izquierdo y todos los números pares al lado derecho ordenados de forma ascendente de izquierda a derecha y 
+posterior a eso presente todos los números ordenados de la misma manera.
+Ejemplo:
+Entrada
+
+10
+1,4,9,46,23,1,4,7,25,55
+
+Salida
+1,1,7,9,23,25,55             4,4,46
+
+1,1,4,4,7,9,23,25,46,55
+
+
+
+2.	Escriba un programa en el cual el usuario debe ingresar dos colas de n posiciones con números enteros,
+se debe ordenar los elementos de las dos colas en forma ascendente en una nueva cola, presentar por consola 
+las dos colas y la nueva cola ordenas.
+Ejemplo:
+
+Entrada
+Primera Cola
+2, 6, 7, 9, 1, 5, 22, 4, 10,12
+Segunda cola
+3, 9, 18, 15, 14, 20, 17,16 
+
+Salida
+1, 2, 4, 5, 6, 7, 9, 10, 12, 22
+3, 9, 14, 15, 16, 17, 18, 20
+1, 2, 3, 4, 5, 6, 7, 9, 9, 10, 12, 14, 15, 16, 17, 18, 20, 22
+

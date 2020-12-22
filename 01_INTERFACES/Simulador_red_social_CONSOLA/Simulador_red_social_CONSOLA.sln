@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulador_red_social_CONSOLA", "Simulador_red_social_CONSOLA.csproj", "{674541AD-0A7E-4632-A32B-D133FE2A125F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{674541AD-0A7E-4632-A32B-D133FE2A125F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674541AD-0A7E-4632-A32B-D133FE2A125F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674541AD-0A7E-4632-A32B-D133FE2A125F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674541AD-0A7E-4632-A32B-D133FE2A125F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8893D5C-304F-4D16-958D-7F7D115E89D5}
+	EndGlobalSection
+EndGlobal

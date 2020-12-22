@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\C# exercises\Verificacion_Signos_Stack\Verificacion_Signos_Stack\bin\Debug\netcoreapp3.1\Verificacion_Signos_Stack.exe
+C:\Users\jared\source\repos\C# exercises\Verificacion_Signos_Stack\Verificacion_Signos_Stack\bin\Debug\netcoreapp3.1\Verificacion_Signos_Stack.deps.json
+C:\Users\jared\source\repos\C# exercises\Verificacion_Signos_Stack\Verificacion_Signos_Stack\bin\Debug\netcoreapp3.1\Verificacion_Signos_Stack.runtimeconfig.json
+C:\Users\jared\source\repos\C# exercises\Verificacion_Signos_Stack\Verificacion_Signos_Stack\bin\Debug\netcoreapp3.1\Verificacion_Signos_Stack.runtimeconfig.dev.json
+C:\Users\jared\source\repos\C# exercises\Verificacion_Signos_Stack\Verificacion_Signos_Stack\bin\Debug\netcoreapp3.1\Verificacion_Signos_Stack.dll
+C:\Users\jared\source\repos\C# exercises\Verificacion_Signos_Stack\Verificacion_Signos_Stack\bin\Debug\netcoreapp3.1\Verificacion_Signos_Stack.pdb
+C:\Users\jared\source\repos\C# exercises\Verificacion_Signos_Stack\Verificacion_Signos_Stack\obj\Debug\netcoreapp3.1\Verificacion_Signos_Stack.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\C# exercises\Verificacion_Signos_Stack\Verificacion_Signos_Stack\obj\Debug\netcoreapp3.1\Verificacion_Signos_Stack.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\C# exercises\Verificacion_Signos_Stack\Verificacion_Signos_Stack\obj\Debug\netcoreapp3.1\Verificacion_Signos_Stack.AssemblyInfo.cs
+C:\Users\jared\source\repos\C# exercises\Verificacion_Signos_Stack\Verificacion_Signos_Stack\obj\Debug\netcoreapp3.1\Verificacion_Signos_Stack.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\C# exercises\Verificacion_Signos_Stack\Verificacion_Signos_Stack\obj\Debug\netcoreapp3.1\Verificacion_Signos_Stack.dll
+C:\Users\jared\source\repos\C# exercises\Verificacion_Signos_Stack\Verificacion_Signos_Stack\obj\Debug\netcoreapp3.1\Verificacion_Signos_Stack.pdb
+C:\Users\jared\source\repos\C# exercises\Verificacion_Signos_Stack\Verificacion_Signos_Stack\obj\Debug\netcoreapp3.1\Verificacion_Signos_Stack.genruntimeconfig.cache
